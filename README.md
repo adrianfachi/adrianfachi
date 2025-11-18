@@ -12,9 +12,6 @@
  
 - <b>JavaScript, Vite, React, CSS - 2025</b>
   - [Review de filmes](https://grupo-de-estudos-sprint2-api-de-ava.vercel.app/)
-    
-- <b>JavaScript, Vite, React, CSS - 2025</b>
-  - [Review de filmes](https://grupo-de-estudos-sprint2-api-de-ava.vercel.app/)
  
 - <b>JavaScript, HTML, CSS - 2023</b>
   - [EasyCarros](https://easy-carros-tau.vercel.app/home.html)
