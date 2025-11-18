@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou o Adrian!
+ - Desenvolvedor frontend
+ - Estudante de Engenharia de Software na PUCRS
 
-<!--
-**adrianfachi/adrianfachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Meus principais projetos</h2>
 
-Here are some ideas to get you started:
+- <b>TypeScript, Next.Js, React, TailwindCSS - 2025</b>
+  - [Portfólio](https://adrianfachi.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>TypeScript, Vite, React, CSS - 2025</b>
+  - [WeatherData](https://weather-data-three.vercel.app/)
+ 
+- <b>JavaScript, Vite, React, CSS - 2025</b>
+  - [Review de filmes](https://grupo-de-estudos-sprint2-api-de-ava.vercel.app/)
+    
+- <b>JavaScript, Vite, React, CSS - 2025</b>
+  - [Review de filmes](https://grupo-de-estudos-sprint2-api-de-ava.vercel.app/)
+ 
+- <b>JavaScript, HTML, CSS - 2023</b>
+  - [EasyCarros](https://easy-carros-tau.vercel.app/home.html)
+  - [Mochila de viagem](https://mochila-de-viagem-red-nine.vercel.app/)
+
+- <b>HTML, CSS - 2023</b>
+  - [Primeiro projeto](https://lojinha-virid.vercel.app/index.html)
